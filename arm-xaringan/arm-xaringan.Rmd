@@ -1,6 +1,6 @@
 ---
-title: "Hello my name is <yournamehere>"
-author: "Your name here"
+title: "Hello my name is <Jan von Heynitz>"
+author: "Jan von Heynitz"
 date: "`r Sys.Date()`"
 output: html_document
 params:
