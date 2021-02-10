@@ -29,7 +29,7 @@ class: inverse
 name: pull-demo
 
 .left-column[
-Momtocat on your left
+Momtocat on your left and
 
 ![Image of Momtocat](http://bit.ly/momtocat)
 ]
